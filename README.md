@@ -1,7 +1,7 @@
 ### *Applied Mathematics and Statistics*
 # Linear Regression
 
-- In this project, we will understand how to build a model to predict the average lifespan using linear regression
+- In this project, we will understand how to build a model to predict the average lifespan using **Linear Regression**
   - #### Requirement 1a: Use all 10 features provided
     - Train only once for 10 features on the entire training set *train.csv*
     - Show formula for regression model (calculate according to 10 features in )
